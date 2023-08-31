@@ -1,4 +1,4 @@
-# Hosted Link:
+# Hosted Link: https://mansi2020.github.io/tailwind_assign1/dist/
 # UI for Large screen:
 ![Screenshot 2023-08-31 190354](https://github.com/mansi2020/tailwind_assign1/assets/57188328/daaef5d4-dd70-4148-9e7a-b5d1ef64178f)
 
